@@ -1,1 +1,1 @@
-print("this is the otp page code")
+print("Welcome to OTP login")
