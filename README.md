@@ -38,7 +38,7 @@ No.|Command | Used for |
 8| git pull | take the changes from remote to local
 9| git branch | check the current branch
 10| git chekout branch_name | to switch between branches
-11| git checkout -b origin branch_name | to switch and create new branch
+11| git checkout -b branch_name | to switch and create new branch
 12| git push --set-upstream origin branch_name | to push the branch into remote repo
 
 
