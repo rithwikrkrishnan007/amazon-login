@@ -1,6 +1,6 @@
 # Git Commands :
 
-## author : Rithwik_Ramakrishnan
+## 🧑‍💻author : Rithwik_Ramakrishnan
 
 ### Basic commands 
  
